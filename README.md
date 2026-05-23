@@ -1,6 +1,6 @@
 # Introduction
 
-- 👋 Hi, I’m Nazmul Hasan (@nazmulHasanRijvee)
+- 👋 Hi, I’m MD Nazmul Hasan (@nazmulHasanRijvee)
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning python and flutter
 - 💞️ I’m looking to collaborate on anything proposed to me.
