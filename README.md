@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m MD Nazmul Hasan (@nazmulHasanRijvee)
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning Mobile App Development with Flutter and python advanced
+- 🌱 I’m currently working on Mobile App Development with Flutter and learning pythons FastAPI, Async I/O
 - 💞️ I’m looking to collaborate on anything proposed to me.
 - 📫 How to reach me my mail nhasanr18@gmail.com
 - 😄 Pronouns: he, him
