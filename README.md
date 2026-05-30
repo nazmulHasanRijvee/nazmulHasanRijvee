@@ -7,7 +7,9 @@
 </a>
 <br/>
 <!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=nazmulHasanRijvee&label=Profile%20Views&color=1A56A0&style=flat-square" alt="Views"/>
+<a href="https://github.com/nazmulHasanRijvee">
+  <img src="https://img.shields.io/github/followers/nazmulHasanRijvee?label=Followers&style=flat-square&color=1A56A0&logo=github&logoColor=white" alt="Followers"/>
+</a>
 &nbsp;
 <a href="mailto:nhasanr18@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -42,7 +44,7 @@ focus:
  
 currently:
   - Built LLM Chat & Image Gen App with OpenRouter API
-  - Building Crafty Bay (E-Commerce) — live project
+  - Building Movie Review App — live project
   - Completing App Development with Flutter @ Ostad
  
 philosophy  : "Every line written by hand. No vibe coding."
@@ -103,14 +105,12 @@ Positional Transitions
 ✅
  
 **Task & Auth**
-
+ 
 JWT + SharedPrefs
  
 Splash Auth Flow,
  
-Password Reset,
-
-Firebase Auth,
+Password Reset
  
 </td>
 </tr>
@@ -135,11 +135,7 @@ Firebase Auth,
  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulHasanRijvee&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=38bdf8&fire=1A56A0&currStreakLabel=38bdf8&sideLabels=8b949e&dates=484f58" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmulHasanRijvee&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&langs_count=6" width="41%"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nazmulHasanRijvee&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulHasanRijvee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&langs_count=6&cache_seconds=1800" width="41%"/>
 </div>
 <br/>
 <div align="center">
