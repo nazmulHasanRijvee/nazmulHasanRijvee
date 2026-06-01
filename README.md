@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1A56A0,100:38bdf8&height=200&section=header&text=MD%20Nazmul%20Hasan&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Flutter+Developer+%7C+Mobile+App+Developer;Provider+%7C+Riverpod+%7C+MVVM+Architecture;REST+APIs+%7C+Firebase+%7C+JWT+Auth;DSA+%7C+Clean+Code+%7C+No+Shortcuts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Flutter+Developer+%7C+Mobile+App+Developer;Provider+%7C+Riverpod+%7C+GetX;REST+APIs+%7C+Firebase+%7C+JWT+Auth;MVVM+Architecture+%7C+DSA+%7C+Clean+Code" alt="Typing SVG" />
 </a>
 <br/>
 <!-- BADGES -->
