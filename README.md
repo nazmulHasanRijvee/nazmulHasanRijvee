@@ -45,7 +45,7 @@ focus:
 currently:
   - Built LLM Chat & Image Gen App with OpenRouter API
   - Building Movie Review App — live project
-  - Completing App Development with Flutter @ Ostad
+  - Completed App Development with Flutter @ Ostad
  
 philosophy  : "Every line written by hand. No vibe coding."
 ```
