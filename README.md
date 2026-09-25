@@ -47,7 +47,7 @@ currently:
   - Building Movie Review App — live project
   - Completed App Development with Flutter @ Ostad
  
-philosophy  : "Every line written by hand. No vibe coding."
+philosophy  : "Adapt to the tools of the era, but never abandon the fundamentals that make you capable of using them"
 ```
  
 <br clear="right"/>
